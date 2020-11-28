@@ -1,0 +1,1 @@
+- data structure - a way of organizing data so that it can be used effectively
